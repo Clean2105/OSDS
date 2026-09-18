@@ -1,0 +1,4 @@
+local name = "PHAM HHUYEN LINH" -- Kiểu chuỗi (String)
+local age = 20               -- Kiểu số (Number)
+local isOnline = true       -- Kiểu logic (Boolean)
+local score = nil           -- Biến rỗng, không có giá trị
